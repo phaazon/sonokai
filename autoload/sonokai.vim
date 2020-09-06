@@ -73,7 +73,7 @@ function! sonokai#get_palette(style) "{{{
   elseif a:style ==# 'andromeda'
     let palette = {
           \ 'black':      ['#181a1c',   '237',  'DarkGrey'],
-          \ 'bg0':        ['#2b2d3a',   '235',  'Black'],
+          \ 'bg0':        ['#282c34',   '235',  'Black'],
           \ 'bg1':        ['#2f3242',   '236',  'DarkGrey'],
           \ 'bg2':        ['#363a4e',   '236',  'DarkGrey'],
           \ 'bg3':        ['#393e53',   '237',  'DarkGrey'],
